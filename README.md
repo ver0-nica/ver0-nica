@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Veronica</h1>
-<h3 align="center">A passionate cloud engineer from Italy</h3>
+<h3 align="center">A young professional from Italy specialized in Cloud Engineering.</h3>
 
 
 - 📫 How to reach me **veros2112@hotmail.it**

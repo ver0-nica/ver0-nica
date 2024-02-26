@@ -1,5 +1,5 @@
 <h1 align="center">Veronica Sambataro</h1>
-<h3 align="center">A young professional from Italy specialized in Cloud Engineering.</h3>
+<h3 align="center">I'm a young professional from Italy specialized in Cloud Engineering.</h3>
 
 
 - 📫 How to reach me **veros2112@hotmail.it**

@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Veronica</h1>
 <h3 align="center">A passionate cloud engineer from Italy</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ver0-nica&label=Profile%20views&color=0e75b6&style=flat" alt="ver0-nica" /> </p>
-
 
 - 📫 How to reach me **veros2112@hotmail.it**
 

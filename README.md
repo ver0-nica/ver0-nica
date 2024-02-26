@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ver0-nica&label=Profile%20views&color=0e75b6&style=flat" alt="ver0-nica" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ver0-nica" alt="ver0-nica" /></a> </p>
 
 - 📫 How to reach me **veros2112@hotmail.it**
 

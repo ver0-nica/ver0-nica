@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Veronica</h1>
+<h1 align="center">Veronica Sambataro</h1>
 <h3 align="center">A young professional from Italy specialized in Cloud Engineering.</h3>
 
 

@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **veros2112@hotmail.it**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1rGG-wrmLxibhjng7XT4GJg24jcjqDXqEeKs7QNoJWgs/edit?usp=sharing](CV)
+- 📄 Know about my experiences [CV](https://docs.google.com/document/d/1rGG-wrmLxibhjng7XT4GJg24jcjqDXqEeKs7QNoJWgs/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
